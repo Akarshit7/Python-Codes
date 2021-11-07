@@ -11,3 +11,6 @@ elif n == 0:
     print("Zero")
 elif n<=1:
     print("Negative")
+
+    
+    
